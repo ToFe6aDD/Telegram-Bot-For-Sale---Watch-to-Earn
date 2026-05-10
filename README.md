@@ -1,3 +1,7 @@
+<img width="1600" height="900" alt="Covr" src="https://github.com/user-attachments/assets/666d1b39-a289-4a65-a462-8f01cf004bb2" />
+
+
+
 Live demo Telegram Bot : @EarnosXBOT – send /support "I'm interested" – I reply personally.
 
 Watch Ads to Earn Bot – Complete Telegram Business
